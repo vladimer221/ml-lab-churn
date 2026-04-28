@@ -1,0 +1,6 @@
+{
+  "model": "logreg_baseline_scaled",
+  "f1": 0.6227709190672154,
+  "roc_auc": 0.8447049889543446,
+  "train_score": 0.7474645030425964
+}

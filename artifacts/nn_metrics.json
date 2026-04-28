@@ -1,0 +1,10 @@
+{
+  "model": "pytorch_mlp",
+  "f1": 0.6309859154929578,
+  "roc_auc": 0.8279616163475699,
+  "epochs": 80,
+  "batch_size": 64,
+  "learning_rate": 0.0005,
+  "input_dim": 30,
+  "feature_count": 30
+}
