@@ -18,32 +18,6 @@
  Основная метрика: F1-score
  Дополнительная метрика: ROC-AUC
 
- Структура проекта
-
-
-ml-lab-churn/
-|
-|- data/
-|   -raw/
-|   |- splits/
-|
-|- src/
-|   |- data_pipeline.py
-|   |- eda.py
-|   |- train_baseline.py
-|   |- train_nn.py
-|   |- evaluate.py
-|   |- explain.py
-|   |- monitoring.py
-|
-|- app/
-|   |- main.py
-|
-|- artifacts/
-|- docs/
-|- Dockerfile
-|- requirements.txt
-|- README.md
 
 Этапы проекта
 
